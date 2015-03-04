@@ -1,0 +1,19 @@
+commit 263030562b5fdcea770d94c86d8d8869e2252c00
+Author: kenpatolia <kenpatolia@live.com>
+Date:   Wed Feb 25 19:29:36 2015 -0500
+
+    Here we just added index.php
+
+commit 4d8e02f2f7d1e0ae500085c4193bb1029bbb9b4a
+Author: Ken Patolia <kenpatolia@live.com>
+Date:   Mon Aug 27 15:43:38 2012 -0400
+
+    This is the text for staging
+
+commit 3ef72d970ac8c18596bd78343d262d9404fe755d
+Author: Ken Patolia <kenpatolia@live.com>
+Date:   Sun Aug 26 07:56:01 2012 -0400
+
+    new images
+    
+    This adds images
