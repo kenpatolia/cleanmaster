@@ -1,19 +1,7 @@
-commit 263030562b5fdcea770d94c86d8d8869e2252c00
-Author: kenpatolia <kenpatolia@live.com>
-Date:   Wed Feb 25 19:29:36 2015 -0500
+Freedom of expression is like the air we breathe, we don't feel it, until people take it away from us.
 
-    Here we just added index.php
+For this reason, Je suis Charlie, not because I endorse everything they published, but because I cherish the right to speak out freely without risk even when it offends others.
+And no, you cannot just take someone's life for whatever he/she expressed.
 
-commit 4d8e02f2f7d1e0ae500085c4193bb1029bbb9b4a
-Author: Ken Patolia <kenpatolia@live.com>
-Date:   Mon Aug 27 15:43:38 2012 -0400
-
-    This is the text for staging
-
-commit 3ef72d970ac8c18596bd78343d262d9404fe755d
-Author: Ken Patolia <kenpatolia@live.com>
-Date:   Sun Aug 26 07:56:01 2012 -0400
-
-    new images
-    
-    This adds images
+Hence this "Je suis Charlie" edition.
+- #JeSuisCharlie
